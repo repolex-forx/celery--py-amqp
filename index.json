@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "py-amqp",
+  "versions": [
+    {
+      "commit": "15fb95f7a89e20b95ebaffcdf89b1473887aa241",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:05:38.861288+00:00"
+    }
+  ]
+}
