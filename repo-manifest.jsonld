@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/celery/py-amqp/commit/15fb95f7a89e20b95ebaffcdf89b1473887aa241",
       "git:hexsha": "15fb95f7a89e20b95ebaffcdf89b1473887aa241",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:05:38.860459+00:00"
     },
     {
       "@id": "https://repolex.ai/r/celery/py-amqp/commit/756d60d225f92c47f1aae3f38f8e9190c619dbcd",
